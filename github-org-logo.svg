@@ -33,9 +33,9 @@
      showgrid="false"
      units="px"
      inkscape:window-width="3400"
-     inkscape:window-height="1334"
+     inkscape:window-height="1348"
      inkscape:window-x="20"
-     inkscape:window-y="52"
+     inkscape:window-y="40"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,16 +62,22 @@
        x="5.0982084"
        y="268.23154"
        ry="1.3352449" />
-    <text
-       xml:space="preserve"
+    <g
+       aria-label="CFF"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.90082073px;line-height:125%;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17277886px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="6.9081106"
-       y="284.6525"
-       id="text14"><tspan
-         sodipodi:role="line"
-         id="tspan12"
-         x="6.9081106"
-         y="284.6525"
-         style="fill:#d7f4ee;stroke-width:0.17277886px">CFF</tspan></text>
+       id="text14">
+      <path
+         d="m 13.648286,281.74225 q -0.07559,1.47402 -0.831499,2.25513 -0.749608,0.7811 -2.12284,0.7811 -1.379531,0 -2.1921315,-1.04567 -0.8126005,-1.05197 -0.8126005,-2.84725 v -1.663 q 0,-1.78898 0.8314982,-2.82835 0.8377975,-1.03938 2.2803208,-1.03938 1.329137,0 2.053549,0.80001 0.73071,0.7937 0.793703,2.27402 h -1.165358 q -0.07559,-1.12126 -0.472442,-1.60001 -0.396851,-0.47874 -1.209452,-0.47874 -0.938585,0 -1.4425233,0.73701 -0.5039384,0.73071 -0.5039384,2.14804 v 1.68189 q 0,1.39213 0.466143,2.13544 0.4724421,0.74331 1.3732317,0.74331 0.90079,0 1.297641,-0.44724 0.396852,-0.44725 0.49134,-1.60631 z"
+         style="fill:#ffffff;stroke-width:0.17277886px"
+         id="path885" />
+      <path
+         d="m 19.456175,280.60209 h -3.099221 v 4.05041 h -1.152759 v -9.17168 h 4.774816 v 0.99528 h -3.622057 v 3.13701 h 3.099221 z"
+         style="fill:#ffffff;stroke-width:0.17277886px"
+         id="path887" />
+      <path
+         d="m 25.654616,280.60209 h -3.099221 v 4.05041 h -1.152759 v -9.17168 h 4.774816 v 0.99528 h -3.622057 v 3.13701 h 3.099221 z"
+         style="fill:#ffffff;stroke-width:0.17277886px"
+         id="path889" />
+    </g>
   </g>
 </svg>
