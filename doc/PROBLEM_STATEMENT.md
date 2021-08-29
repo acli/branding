@@ -1,6 +1,6 @@
 Problem statement
 =================
-The original logo was set in Roboto Condensed, with #2a7fff chosen as background colour.
+The original logo was set in Roboto Condensed Regular, with #2a7fff chosen as background colour.
 This original version can be found at commit f44a5be6ebb483453f70f158c0571e451b8d7d49
 
 The original composition seems to suffer from a couple of potential problems:
