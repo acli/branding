@@ -8,7 +8,7 @@ The original composition seems to suffer from a couple of potential problems:
   according to [1, p. 12], 75C 50M in print looks very different.
   The chosen colour is probably out of gamut for print.
 - According to [2], the logo was originally designed for GitHub, but potential uses would
-  include websites and slides. Legibility for slides might or might not have ben tested.
+  include websites and slides. Legibility for slides might or might not have been tested.
 - The uncropped logo is currently used for GitHub, where the cropped version is more
   appropriate. This suggests branding guidelines [2] are indeed necessary.
 - The composition looks fine at default size, but on the README page,
