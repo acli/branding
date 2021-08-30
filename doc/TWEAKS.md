@@ -18,12 +18,12 @@ and visual alignment of the word *CFF* inside the rounded square (what Adobe cal
 Method
 ------
 
-The SVG is loaded into Adobe Illustrator CS6 and minor tweaks are made,
+The SVG is loaded into Adobe Illustrator CS6 and minor tweaks were made,
 first by arrow keys (1-point adjustments),
 then by menu commands (0.5-point adjustments at first, then 0.1-point, then 0.05-point adjustments).
 After tweaking by trial and error,
-the file is exported to PNG at 225 dpi
-so that the final PNG remains at 400px.
+the file was exported to PNG at 225 dpi
+so that the final PNG was 400px × 400px.
 
 Results
 -------
