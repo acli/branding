@@ -7,9 +7,9 @@ This repository holds anything to do with the visual identity of the Citation Fi
 Please use the logo only to identify the CFF project.
 
 If you use the logo on a website or any digital media that supports alternate text,
-please use the alt text “Citation File Format”
+the correct alt text is usually “Citation File Format”
 or an appropriate translation.
-*Do not* use “CFF logo”.
+(“Logo”, “CFF logo” or similar are usually incorrect.)
 
 ### Cropped logo
 
