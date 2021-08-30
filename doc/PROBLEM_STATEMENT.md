@@ -11,6 +11,9 @@ The original composition seems to suffer from a couple of potential problems:
   include websites and slides. Legibility for slides might or might not have ben tested.
 - The uncropped logo is currently used for GitHub, where the cropped version is more
   appropriate. This suggests branding guidelines [2] are indeed necessary.
+- The composition looks fine at default size, but on the README page,
+  where one image pixel is displayed as 1 device pixel ,
+  it is visually off centre.
 
 References
 ----------
